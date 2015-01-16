@@ -1,0 +1,50 @@
+body {
+	background-image: url(../images/paws.png);
+	background-position: center center;
+	background-color: white;
+}
+h1 {
+	color: yellow;
+	font-size: 40;
+	background-color: black;
+	text-align: center;
+}		
+h2 {
+	color: maroon;
+}
+#summary {
+	clear: both;
+	border: 5px dotted black;
+	background-color: lightgrey;
+	padding: 20px;
+	color: black;
+	margin-top: 20px;	
+}
+img {
+	float: right;
+}
+#header {
+	overflow: hidden;
+}
+#cast {
+	clear: both;
+	border: 5px dotted black;
+	background-color: lightgrey;
+	padding: 20px;
+	color: black;
+	margin-top: 20px;	
+}
+#reviews {
+	border: 5px dotted black;
+	background-color: lightgrey;
+	padding: 20px;
+	color: black;
+	margin-top: 20px;	
+}
+#info {
+	border: 5px dotted black;
+	background-color: lightgrey;
+	padding: 20px;
+	color: black;
+	margin-top: 20px;	
+}
