@@ -1,0 +1,25 @@
+body {
+	background-position: center center;
+	background-color: #CCFF99;
+}
+
+.jumbotron h1 {
+	padding: 10px;
+	background-color: black;
+	color: yellow;
+	text-align: center;
+}
+
+.jumbotron h2 {
+	color: white;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(../images/paws.png);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}

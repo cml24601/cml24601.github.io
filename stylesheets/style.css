@@ -1,9 +1,85 @@
 body {
-  font-family: 'helvetica neue', arial, sans-serif;
-  font-weight: 300;
-  background: url(paws and balls background.png) repeat;
+	background-image: url(../images/paws.png);
+	background-position: center center;
+	background-color: white;
 }
-#wrapper {
-  width: 960px;
-  margin: 20px auto;
+
+.jumbotron {
+	background-color: black;
+}
+
+
+.jumbotron h1 {
+	color: white;
+}
+
+.jumbotron h2 {
+	color: white;
+}
+
+.thumbnail {
+	border-color: yellow;
+}
+
+.summary {
+	background-color: black;
+	border-style: solid;
+	border-color: yellow;
+}
+
+.summary h2 {
+	color: white;
+}
+
+.summary p {
+	color: white;
+}
+
+.themes {
+	background-color: black;
+	border-style: solid;
+	border-color: yellow;
+}
+
+.themes h2 {
+	color: white;
+}
+
+.themes ul {
+	color: white;
+}
+
+.penny h1 {
+	color: white;
+}
+
+.table {
+	background-color: black;
+	font-color:white;
+}
+
+.table thead {
+	font-color: white;
+}
+
+.table tr {
+	color: white;
+}
+
+.th {
+	color: white;
+}
+
+h2 {
+	color: yellow;
+	padding: 20px;
+	background-color: black;
+	font-color: white;
+	border-color: green;
+}
+
+h1 {
+	color: yellow;
+	padding: 10px;
+	background-color: black;
 }
