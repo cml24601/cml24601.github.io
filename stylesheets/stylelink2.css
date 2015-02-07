@@ -31,3 +31,30 @@ body {
     color: white;
     text-shadow: black 0.3em 0.3em 0.3em;
 }
+
+h2 {
+	text-align: center;
+}
+
+.cover img {
+	vertical-align: center;
+}
+
+p {
+	text-align: center;
+	font-style: italic;
+}
+
+.row1 {
+	padding: 10px;
+	border-style: solid;
+}
+
+.cover h2 {
+	text-align: left;
+	vertical-align: left;
+}
+
+.form-group {
+	padding: 20px;
+}
