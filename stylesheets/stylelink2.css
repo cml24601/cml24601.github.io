@@ -23,7 +23,7 @@ body {
 }
 
 .jumbotron {
-    margin-bottom: 0px;
+    margin-bottom: 10px;
     background-image: url(../images/paws.png);
     background-position: 0% 25%;
     background-size: cover;
@@ -55,6 +55,15 @@ p {
 	vertical-align: left;
 }
 
-.form-group {
+.form2 {
 	padding: 20px;
+}
+
+.form p {
+	font-size: 30px;
+}
+
+.form {
+	background-color: #CCFF99;
+	padding: 10px;
 }
